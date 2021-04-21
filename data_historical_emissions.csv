@@ -1,0 +1,585 @@
+,Country,Sector,Gas,2017,2016,2015
+0,Afghanistan,Agriculture,All GHG,15.28,15.35,15.15
+1,Afghanistan,Building,All GHG,0.13,0.04,0.02
+2,Afghanistan,Bunker Fuels,All GHG,0.04,0.04,0.03
+3,Afghanistan,Electricity/Heat,All GHG,0.21,0.2,0.17
+4,Afghanistan,Energy,All GHG,77.72,75.93,74.74
+5,Afghanistan,Fugitive Emissions,All GHG,2.21,2.19,2.18
+6,Afghanistan,Industrial Processes,All GHG,0.91,0.76,0.59
+7,Afghanistan,Land-Use Change and Forestry,All GHG,0.0,0.0,0.0
+8,Afghanistan,Manufacturing/Construction,All GHG,3.44,2.95,2.89
+9,Afghanistan,Other Fuel Combustion,All GHG,68.18,66.39,64.6
+10,Afghanistan,Transportation,All GHG,3.55,4.16,4.88
+11,Afghanistan,Waste,All GHG,3.45,3.37,3.28
+12,Armenia,Agriculture,All GHG,1.87,2.33,1.78
+13,Armenia,Building,All GHG,1.32,1.24,1.15
+14,Armenia,Bunker Fuels,All GHG,0.23,0.23,0.17
+15,Armenia,Electricity/Heat,All GHG,1.26,1.19,1.29
+16,Armenia,Energy,All GHG,6.28,6.03,6.23
+17,Armenia,Fugitive Emissions,All GHG,0.9,0.9,0.91
+18,Armenia,Industrial Processes,All GHG,0.38,0.4,0.5
+19,Armenia,Land-Use Change and Forestry,All GHG,-0.15,-0.15,-0.14
+20,Armenia,Manufacturing/Construction,All GHG,0.45,0.4,0.41
+21,Armenia,Other Fuel Combustion,All GHG,0.68,0.72,0.83
+22,Armenia,Transportation,All GHG,1.67,1.58,1.66
+23,Armenia,Waste,All GHG,0.74,0.75,0.75
+24,Australia,Agriculture,All GHG,162.4,119.64,153.46
+25,Australia,Building,All GHG,14.87,14.83,14.44
+26,Australia,Bunker Fuels,All GHG,20.9,19.24,18.24
+27,Australia,Electricity/Heat,All GHG,226.19,225.68,219.58
+28,Australia,Energy,All GHG,426.4,422.98,413.44
+29,Australia,Fugitive Emissions,All GHG,36.53,36.27,35.05
+30,Australia,Industrial Processes,All GHG,17.86,18.19,17.92
+31,Australia,Land-Use Change and Forestry,All GHG,-65.76,-65.76,-66.99
+32,Australia,Manufacturing/Construction,All GHG,37.55,37.5,37.69
+33,Australia,Other Fuel Combustion,All GHG,13.59,13.12,12.53
+34,Australia,Transportation,All GHG,97.68,95.59,94.15
+35,Australia,Waste,All GHG,12.21,12.12,11.54
+36,Azerbaijan,Agriculture,All GHG,6.78,6.94,6.89
+37,Azerbaijan,Building,All GHG,6.14,6.72,5.99
+38,Azerbaijan,Bunker Fuels,All GHG,1.53,1.55,1.91
+39,Azerbaijan,Electricity/Heat,All GHG,14.28,14.33,14.42
+40,Azerbaijan,Energy,All GHG,68.16,69.51,69.56
+41,Azerbaijan,Fugitive Emissions,All GHG,37.0,37.74,38.4
+42,Azerbaijan,Industrial Processes,All GHG,1.17,1.15,1.24
+43,Azerbaijan,Land-Use Change and Forestry,All GHG,-8.47,-8.47,-8.46
+44,Azerbaijan,Manufacturing/Construction,All GHG,1.75,2.79,2.32
+45,Azerbaijan,Other Fuel Combustion,All GHG,1.39,1.37,1.45
+46,Azerbaijan,Transportation,All GHG,7.6,6.55,6.98
+47,Azerbaijan,Waste,All GHG,4.01,3.92,3.82
+48,Bangladesh,Agriculture,All GHG,85.79,83.56,85.39
+49,Bangladesh,Building,All GHG,9.62,9.04,7.92
+50,Bangladesh,Bunker Fuels,All GHG,4.15,4.19,3.98
+51,Bangladesh,Electricity/Heat,All GHG,37.05,36.26,33.61
+52,Bangladesh,Energy,All GHG,81.81,76.87,74.85
+53,Bangladesh,Fugitive Emissions,All GHG,1.41,1.4,1.4
+54,Bangladesh,Industrial Processes,All GHG,3.51,3.05,2.59
+55,Bangladesh,Land-Use Change and Forestry,All GHG,19.56,19.56,20.28
+56,Bangladesh,Manufacturing/Construction,All GHG,17.35,14.76,17.21
+57,Bangladesh,Other Fuel Combustion,All GHG,5.44,5.6,5.45
+58,Bangladesh,Transportation,All GHG,10.94,9.81,9.26
+59,Bangladesh,Waste,All GHG,20.38,20.11,19.84
+60,Bhutan,Agriculture,All GHG,0.52,0.52,0.52
+61,Bhutan,Building,All GHG,0.05,0.05,0.04
+62,Bhutan,Bunker Fuels,All GHG,0.01,0.01,0.01
+63,Bhutan,Electricity/Heat,All GHG,0.0,0.0,0.0
+64,Bhutan,Energy,All GHG,1.42,1.33,1.12
+65,Bhutan,Fugitive Emissions,All GHG,0.0,0.0,0.0
+66,Bhutan,Industrial Processes,All GHG,0.39,0.39,0.33
+67,Bhutan,Land-Use Change and Forestry,All GHG,-3.78,-3.78,-3.73
+68,Bhutan,Manufacturing/Construction,All GHG,0.35,0.29,0.2
+69,Bhutan,Other Fuel Combustion,All GHG,0.45,0.45,0.46
+70,Bhutan,Transportation,All GHG,0.57,0.54,0.43
+71,Bhutan,Waste,All GHG,0.08,0.08,0.07
+72,Brunei,Agriculture,All GHG,0.13,0.13,0.13
+73,Brunei,Building,All GHG,0.09,0.09,0.09
+74,Brunei,Bunker Fuels,All GHG,0.23,0.24,0.26
+75,Brunei,Electricity/Heat,All GHG,4.79,4.63,4.08
+76,Brunei,Energy,All GHG,15.61,15.53,15.31
+77,Brunei,Fugitive Emissions,All GHG,8.85,9.06,9.28
+78,Brunei,Industrial Processes,All GHG,0.43,0.35,0.28
+79,Brunei,Land-Use Change and Forestry,All GHG,0.46,0.46,0.4
+80,Brunei,Manufacturing/Construction,All GHG,0.42,0.32,0.42
+81,Brunei,Other Fuel Combustion,All GHG,0.14,0.09,0.09
+82,Brunei,Transportation,All GHG,1.33,1.34,1.36
+83,Brunei,Waste,All GHG,0.17,0.17,0.16
+84,Cambodia,Agriculture,All GHG,21.66,20.98,21.37
+85,Cambodia,Building,All GHG,0.56,0.48,0.51
+86,Cambodia,Bunker Fuels,All GHG,0.33,0.41,0.28
+87,Cambodia,Electricity/Heat,All GHG,4.14,2.99,2.5
+88,Cambodia,Energy,All GHG,14.3,12.76,11.42
+89,Cambodia,Fugitive Emissions,All GHG,,,
+90,Cambodia,Industrial Processes,All GHG,1.32,1.2,1.03
+91,Cambodia,Land-Use Change and Forestry,All GHG,29.99,29.99,27.78
+92,Cambodia,Manufacturing/Construction,All GHG,0.66,0.67,0.23
+93,Cambodia,Other Fuel Combustion,All GHG,3.67,3.62,3.96
+94,Cambodia,Transportation,All GHG,5.27,5.01,4.23
+95,Cambodia,Waste,All GHG,0.55,0.54,0.53
+96,China,Agriculture,All GHG,717.22,730.6,727.46
+97,China,Building,All GHG,533.08,525.09,510.54
+98,China,Bunker Fuels,All GHG,143.04,137.72,132.16
+99,China,Electricity/Heat,All GHG,4904.12,4637.77,4580.61
+100,China,Energy,All GHG,10037.65,9849.23,9890.2
+101,China,Fugitive Emissions,All GHG,694.79,696.81,698.3
+102,China,Industrial Processes,All GHG,1144.49,1122.48,1090.68
+103,China,Land-Use Change and Forestry,All GHG,-309.98,-309.98,-309.77
+104,China,Manufacturing/Construction,All GHG,2734.18,2846.38,2972.98
+105,China,Other Fuel Combustion,All GHG,290.6,299.76,300.62
+106,China,Transportation,All GHG,880.9,843.42,827.14
+107,China,Waste,All GHG,191.61,185.65,179.68
+108,Fiji,Agriculture,All GHG,1.0,0.99,1.0
+109,Fiji,Building,All GHG,0.11,0.12,0.08
+110,Fiji,Bunker Fuels,All GHG,0.22,0.19,0.2
+111,Fiji,Electricity/Heat,All GHG,0.38,0.33,0.32
+112,Fiji,Energy,All GHG,2.06,1.98,1.75
+113,Fiji,Fugitive Emissions,All GHG,,,
+114,Fiji,Industrial Processes,All GHG,0.16,0.16,0.14
+115,Fiji,Land-Use Change and Forestry,All GHG,-3.01,-3.01,-2.95
+116,Fiji,Manufacturing/Construction,All GHG,0.28,0.28,0.25
+117,Fiji,Other Fuel Combustion,All GHG,0.35,0.33,0.33
+118,Fiji,Transportation,All GHG,0.94,0.92,0.77
+119,Fiji,Waste,All GHG,0.13,0.13,0.13
+120,Georgia,Agriculture,All GHG,2.21,2.35,2.33
+121,Georgia,Building,All GHG,2.21,1.99,1.81
+122,Georgia,Bunker Fuels,All GHG,0.36,0.28,0.25
+123,Georgia,Electricity/Heat,All GHG,1.1,1.06,1.26
+124,Georgia,Energy,All GHG,9.97,10.02,9.62
+125,Georgia,Fugitive Emissions,All GHG,0.93,0.97,1.0
+126,Georgia,Industrial Processes,All GHG,1.81,1.81,1.8
+127,Georgia,Land-Use Change and Forestry,All GHG,0.02,0.02,0.05
+128,Georgia,Manufacturing/Construction,All GHG,1.7,1.54,1.64
+129,Georgia,Other Fuel Combustion,All GHG,0.16,0.16,0.13
+130,Georgia,Transportation,All GHG,3.87,4.29,3.78
+131,Georgia,Waste,All GHG,3.21,3.21,3.21
+132,India,Agriculture,All GHG,709.86,704.16,700.1
+133,India,Building,All GHG,113.75,111.86,107.82
+134,India,Bunker Fuels,All GHG,45.59,43.09,41.48
+135,India,Electricity/Heat,All GHG,1157.77,1097.81,1103.23
+136,India,Energy,All GHG,2307.82,2187.89,2153.56
+137,India,Fugitive Emissions,All GHG,54.94,55.28,55.26
+138,India,Industrial Processes,All GHG,130.52,130.61,130.19
+139,India,Land-Use Change and Forestry,All GHG,126.43,126.43,124.29
+140,India,Manufacturing/Construction,All GHG,558.99,525.1,503.78
+141,India,Other Fuel Combustion,All GHG,131.14,128.45,125.72
+142,India,Transportation,All GHG,291.23,269.4,257.75
+143,India,Waste,All GHG,82.07,80.98,79.89
+144,Indonesia,Agriculture,All GHG,195.98,190.22,182.5
+145,Indonesia,Building,All GHG,24.97,23.1,24.14
+146,Indonesia,Bunker Fuels,All GHG,11.75,10.62,15.09
+147,Indonesia,Electricity/Heat,All GHG,218.73,206.45,195.51
+148,Indonesia,Energy,All GHG,548.51,511.55,511.21
+149,Indonesia,Fugitive Emissions,All GHG,30.94,32.85,33.5
+150,Indonesia,Industrial Processes,All GHG,36.19,34.58,30.16
+151,Indonesia,Land-Use Change and Forestry,All GHG,1363.07,1363.07,1925.39
+152,Indonesia,Manufacturing/Construction,All GHG,99.55,84.22,99.98
+153,Indonesia,Other Fuel Combustion,All GHG,32.65,31.29,35.5
+154,Indonesia,Transportation,All GHG,141.68,133.64,122.57
+155,Indonesia,Waste,All GHG,131.65,129.47,127.28
+156,Iran,Agriculture,All GHG,32.4,33.17,32.11
+157,Iran,Building,All GHG,124.61,132.79,123.99
+158,Iran,Bunker Fuels,All GHG,14.22,13.43,13.53
+159,Iran,Electricity/Heat,All GHG,201.58,190.74,192.38
+160,Iran,Energy,All GHG,704.87,686.47,678.68
+161,Iran,Fugitive Emissions,All GHG,127.68,122.44,115.94
+162,Iran,Industrial Processes,All GHG,31.43,30.72,30.91
+163,Iran,Land-Use Change and Forestry,All GHG,67.08,67.08,67.08
+164,Iran,Manufacturing/Construction,All GHG,96.77,91.87,88.44
+165,Iran,Other Fuel Combustion,All GHG,19.4,18.39,18.81
+166,Iran,Transportation,All GHG,134.83,130.24,139.11
+167,Iran,Waste,All GHG,46.04,45.42,44.81
+168,Japan,Agriculture,All GHG,21.45,21.51,21.62
+169,Japan,Building,All GHG,115.44,111.56,114.01
+170,Japan,Bunker Fuels,All GHG,30.71,30.43,28.68
+171,Japan,Electricity/Heat,All GHG,589.35,608.59,610.36
+172,Japan,Energy,All GHG,1135.35,1155.42,1165.84
+173,Japan,Fugitive Emissions,All GHG,2.3,2.3,2.29
+174,Japan,Industrial Processes,All GHG,71.59,73.75,70.38
+175,Japan,Land-Use Change and Forestry,All GHG,4.46,4.46,4.55
+176,Japan,Manufacturing/Construction,All GHG,196.8,197.98,202.35
+177,Japan,Other Fuel Combustion,All GHG,24.4,26.1,25.51
+178,Japan,Transportation,All GHG,207.07,208.9,211.32
+179,Japan,Waste,All GHG,6.92,7.04,7.22
+180,Kazakhstan,Agriculture,All GHG,26.61,22.96,24.52
+181,Kazakhstan,Building,All GHG,34.96,31.22,29.75
+182,Kazakhstan,Bunker Fuels,All GHG,3.71,2.85,2.79
+183,Kazakhstan,Electricity/Heat,All GHG,123.88,125.0,110.9
+184,Kazakhstan,Energy,All GHG,243.38,241.2,224.58
+185,Kazakhstan,Fugitive Emissions,All GHG,22.13,22.48,23.08
+186,Kazakhstan,Industrial Processes,All GHG,5.04,4.8,4.79
+187,Kazakhstan,Land-Use Change and Forestry,All GHG,0.1,0.1,0.49
+188,Kazakhstan,Manufacturing/Construction,All GHG,42.35,42.16,41.31
+189,Kazakhstan,Other Fuel Combustion,All GHG,4.74,4.43,4.25
+190,Kazakhstan,Transportation,All GHG,15.33,15.91,15.3
+191,Kazakhstan,Waste,All GHG,5.52,5.45,5.32
+192,Kiribati,Agriculture,All GHG,0.01,0.01,0.01
+193,Kiribati,Building,All GHG,0.01,0.01,0.01
+194,Kiribati,Bunker Fuels,All GHG,0.01,0.01,0.01
+195,Kiribati,Electricity/Heat,All GHG,0.03,0.03,0.02
+196,Kiribati,Energy,All GHG,0.08,0.08,0.06
+197,Kiribati,Fugitive Emissions,All GHG,,,
+198,Kiribati,Industrial Processes,All GHG,0.0,0.0,0.0
+199,Kiribati,Land-Use Change and Forestry,All GHG,-0.01,-0.01,-0.01
+200,Kiribati,Manufacturing/Construction,All GHG,0.0,0.0,0.0
+201,Kiribati,Other Fuel Combustion,All GHG,0.01,0.01,0.01
+202,Kiribati,Transportation,All GHG,0.03,0.03,0.02
+203,Kiribati,Waste,All GHG,0.02,0.02,0.02
+204,Kyrgyzstan,Agriculture,All GHG,5.29,5.24,5.11
+205,Kyrgyzstan,Building,All GHG,4.58,2.76,1.8
+206,Kyrgyzstan,Bunker Fuels,All GHG,0.07,0.63,0.63
+207,Kyrgyzstan,Electricity/Heat,All GHG,1.5,1.83,2.75
+208,Kyrgyzstan,Energy,All GHG,9.61,9.96,10.46
+209,Kyrgyzstan,Fugitive Emissions,All GHG,0.23,0.23,0.23
+210,Kyrgyzstan,Industrial Processes,All GHG,0.66,0.67,0.76
+211,Kyrgyzstan,Land-Use Change and Forestry,All GHG,-0.84,-0.84,-0.84
+212,Kyrgyzstan,Manufacturing/Construction,All GHG,0.86,0.9,1.82
+213,Kyrgyzstan,Other Fuel Combustion,All GHG,0.58,0.93,1.17
+214,Kyrgyzstan,Transportation,All GHG,1.86,3.32,2.68
+215,Kyrgyzstan,Waste,All GHG,0.77,0.77,0.76
+216,Laos,Agriculture,All GHG,9.78,9.67,9.35
+217,Laos,Building,All GHG,0.04,0.02,0.01
+218,Laos,Bunker Fuels,All GHG,0.11,0.12,0.12
+219,Laos,Electricity/Heat,All GHG,13.92,10.87,3.71
+220,Laos,Energy,All GHG,18.11,14.96,8.25
+221,Laos,Fugitive Emissions,All GHG,0.01,0.01,0.01
+222,Laos,Industrial Processes,All GHG,1.07,1.05,1.03
+223,Laos,Land-Use Change and Forestry,All GHG,26.4,26.4,22.71
+224,Laos,Manufacturing/Construction,All GHG,0.56,0.53,1.62
+225,Laos,Other Fuel Combustion,All GHG,0.55,0.55,0.55
+226,Laos,Transportation,All GHG,3.04,2.99,2.35
+227,Laos,Waste,All GHG,0.21,0.21,0.2
+228,Malaysia,Agriculture,All GHG,13.36,13.25,13.4
+229,Malaysia,Building,All GHG,5.37,4.19,3.98
+230,Malaysia,Bunker Fuels,All GHG,9.18,7.44,8.34
+231,Malaysia,Electricity/Heat,All GHG,109.34,118.49,123.54
+232,Malaysia,Energy,All GHG,235.44,241.31,245.35
+233,Malaysia,Fugitive Emissions,All GHG,21.48,21.86,22.07
+234,Malaysia,Industrial Processes,All GHG,19.29,18.69,18.1
+235,Malaysia,Land-Use Change and Forestry,All GHG,-130.24,-130.24,-131.55
+236,Malaysia,Manufacturing/Construction,All GHG,32.45,29.63,28.82
+237,Malaysia,Other Fuel Combustion,All GHG,6.23,4.26,5.72
+238,Malaysia,Transportation,All GHG,60.57,62.89,61.21
+239,Malaysia,Waste,All GHG,20.28,19.94,19.6
+240,Maldives,Agriculture,All GHG,0.0,0.0,0.0
+241,Maldives,Building,All GHG,0.06,0.06,0.05
+242,Maldives,Bunker Fuels,All GHG,0.08,0.06,0.1
+243,Maldives,Electricity/Heat,All GHG,0.65,0.65,0.52
+244,Maldives,Energy,All GHG,1.84,1.78,1.37
+245,Maldives,Fugitive Emissions,All GHG,,,
+246,Maldives,Industrial Processes,All GHG,0.26,0.21,0.17
+247,Maldives,Land-Use Change and Forestry,All GHG,0.0,0.0,0.0
+248,Maldives,Manufacturing/Construction,All GHG,0.04,0.05,0.03
+249,Maldives,Other Fuel Combustion,All GHG,0.03,0.03,0.03
+250,Maldives,Transportation,All GHG,1.07,1.0,0.75
+251,Maldives,Waste,All GHG,0.13,0.13,0.12
+252,Marshall Islands,Agriculture,All GHG,0.0,0.0,0.0
+253,Marshall Islands,Building,All GHG,0.0,0.0,0.0
+254,Marshall Islands,Bunker Fuels,All GHG,0.01,0.01,0.01
+255,Marshall Islands,Electricity/Heat,All GHG,0.07,0.07,0.06
+256,Marshall Islands,Energy,All GHG,0.18,0.18,0.15
+257,Marshall Islands,Industrial Processes,All GHG,0.01,0.01,0.01
+258,Marshall Islands,Land-Use Change and Forestry,All GHG,0.0,0.0,0.0
+259,Marshall Islands,Manufacturing/Construction,All GHG,0.0,0.0,0.0
+260,Marshall Islands,Other Fuel Combustion,All GHG,0.0,0.0,0.0
+261,Marshall Islands,Transportation,All GHG,0.1,0.1,0.09
+262,Marshall Islands,Waste,All GHG,0.03,0.03,0.03
+263,Micronesia,Agriculture,All GHG,0.06,0.06,0.06
+264,Micronesia,Building,All GHG,0.0,0.0,0.0
+265,Micronesia,Bunker Fuels,All GHG,0.02,0.02,0.02
+266,Micronesia,Electricity/Heat,All GHG,0.07,0.07,0.06
+267,Micronesia,Energy,All GHG,0.18,0.18,0.15
+268,Micronesia,Industrial Processes,All GHG,0.0,0.0,0.0
+269,Micronesia,Land-Use Change and Forestry,All GHG,-0.03,-0.03,-0.03
+270,Micronesia,Manufacturing/Construction,All GHG,0.0,0.0,0.0
+271,Micronesia,Other Fuel Combustion,All GHG,0.01,0.01,0.01
+272,Micronesia,Transportation,All GHG,0.1,0.1,0.08
+273,Micronesia,Waste,All GHG,0.01,0.01,0.01
+274,Mongolia,Agriculture,All GHG,29.33,27.5,25.93
+275,Mongolia,Building,All GHG,1.5,1.63,1.12
+276,Mongolia,Bunker Fuels,All GHG,0.3,0.21,0.25
+277,Mongolia,Electricity/Heat,All GHG,12.77,11.72,11.71
+278,Mongolia,Energy,All GHG,21.22,19.96,19.13
+279,Mongolia,Fugitive Emissions,All GHG,1.36,1.4,1.44
+280,Mongolia,Industrial Processes,All GHG,0.41,0.37,0.33
+281,Mongolia,Land-Use Change and Forestry,All GHG,19.52,19.52,23.26
+282,Mongolia,Manufacturing/Construction,All GHG,1.77,1.43,1.49
+283,Mongolia,Other Fuel Combustion,All GHG,1.72,2.01,1.36
+284,Mongolia,Transportation,All GHG,2.11,1.77,2.01
+285,Mongolia,Waste,All GHG,0.24,0.24,0.24
+286,Myanmar,Agriculture,All GHG,81.95,79.13,78.67
+287,Myanmar,Building,All GHG,1.5,0.98,0.01
+288,Myanmar,Bunker Fuels,All GHG,4.21,3.13,0.74
+289,Myanmar,Electricity/Heat,All GHG,9.23,7.35,5.69
+290,Myanmar,Energy,All GHG,34.0,24.49,22.26
+291,Myanmar,Fugitive Emissions,All GHG,0.22,0.22,0.23
+292,Myanmar,Industrial Processes,All GHG,1.0,1.0,0.35
+293,Myanmar,Land-Use Change and Forestry,All GHG,110.37,110.37,117.66
+294,Myanmar,Manufacturing/Construction,All GHG,8.23,3.91,5.37
+295,Myanmar,Other Fuel Combustion,All GHG,8.87,7.59,6.63
+296,Myanmar,Transportation,All GHG,5.94,4.44,4.33
+297,Myanmar,Waste,All GHG,5.1,5.04,4.99
+298,Nauru,Agriculture,All GHG,0.0,0.0,0.0
+299,Nauru,Building,All GHG,0.0,0.0,0.0
+300,Nauru,Bunker Fuels,All GHG,0.02,0.02,0.01
+301,Nauru,Electricity/Heat,All GHG,0.03,0.03,0.02
+302,Nauru,Energy,All GHG,0.07,0.06,0.05
+303,Nauru,Fugitive Emissions,All GHG,,,
+304,Nauru,Industrial Processes,All GHG,0.0,0.0,0.0
+305,Nauru,Land-Use Change and Forestry,All GHG,0.0,0.0,0.0
+306,Nauru,Manufacturing/Construction,All GHG,0.0,0.0,0.0
+307,Nauru,Other Fuel Combustion,All GHG,0.02,0.02,0.02
+308,Nauru,Transportation,All GHG,0.02,0.02,0.02
+309,Nauru,Waste,All GHG,0.0,0.0,0.0
+310,Nepal,Agriculture,All GHG,25.38,24.76,24.66
+311,Nepal,Building,All GHG,1.32,1.15,0.71
+312,Nepal,Bunker Fuels,All GHG,1.26,1.1,0.62
+313,Nepal,Electricity/Heat,All GHG,0.0,0.0,0.0
+314,Nepal,Energy,All GHG,22.33,20.35,17.25
+315,Nepal,Fugitive Emissions,All GHG,0.01,0.01,0.01
+316,Nepal,Industrial Processes,All GHG,0.91,0.9,0.81
+317,Nepal,Land-Use Change and Forestry,All GHG,14.37,14.37,3.56
+318,Nepal,Manufacturing/Construction,All GHG,3.19,2.78,2.23
+319,Nepal,Other Fuel Combustion,All GHG,12.96,12.52,11.96
+320,Nepal,Transportation,All GHG,4.85,3.9,2.34
+321,Nepal,Waste,All GHG,0.97,0.95,0.94
+322,New Zealand,Agriculture,All GHG,42.36,42.62,42.65
+323,New Zealand,Building,All GHG,1.61,1.53,1.53
+324,New Zealand,Bunker Fuels,All GHG,5.03,4.64,3.93
+325,New Zealand,Electricity/Heat,All GHG,6.97,6.12,7.25
+326,New Zealand,Energy,All GHG,33.65,31.85,32.78
+327,New Zealand,Fugitive Emissions,All GHG,1.04,1.04,1.14
+328,New Zealand,Industrial Processes,All GHG,2.13,2.12,2.42
+329,New Zealand,Land-Use Change and Forestry,All GHG,-17.2,-17.2,-17.2
+330,New Zealand,Manufacturing/Construction,All GHG,6.47,6.58,6.45
+331,New Zealand,Other Fuel Combustion,All GHG,1.9,1.88,2.02
+332,New Zealand,Transportation,All GHG,15.67,14.69,14.4
+333,New Zealand,Waste,All GHG,3.86,3.84,3.86
+334,North Korea,Agriculture,All GHG,4.96,4.92,4.89
+335,North Korea,Building,All GHG,0.12,0.12,0.12
+336,North Korea,Bunker Fuels,All GHG,0.0,0.0,0.0
+337,North Korea,Electricity/Heat,All GHG,3.31,4.47,3.66
+338,North Korea,Energy,All GHG,33.75,41.38,36.55
+339,North Korea,Fugitive Emissions,All GHG,12.43,12.36,12.28
+340,North Korea,Industrial Processes,All GHG,5.81,5.68,5.52
+341,North Korea,Land-Use Change and Forestry,All GHG,14.03,14.03,14.34
+342,North Korea,Manufacturing/Construction,All GHG,11.47,16.46,13.39
+343,North Korea,Other Fuel Combustion,All GHG,5.03,6.53,5.69
+344,North Korea,Transportation,All GHG,1.4,1.45,1.41
+345,North Korea,Waste,All GHG,1.49,1.48,1.47
+346,Pakistan,Agriculture,All GHG,182.06,175.63,170.83
+347,Pakistan,Building,All GHG,20.26,20.31,19.27
+348,Pakistan,Bunker Fuels,All GHG,2.53,2.41,2.24
+349,Pakistan,Electricity/Heat,All GHG,55.9,49.37,45.14
+350,Pakistan,Energy,All GHG,200.09,182.96,167.4
+351,Pakistan,Fugitive Emissions,All GHG,13.66,13.71,13.73
+352,Pakistan,Industrial Processes,All GHG,23.43,21.82,18.8
+353,Pakistan,Land-Use Change and Forestry,All GHG,28.64,28.64,28.6
+354,Pakistan,Manufacturing/Construction,All GHG,52.6,46.47,41.38
+355,Pakistan,Other Fuel Combustion,All GHG,3.82,3.97,3.82
+356,Pakistan,Transportation,All GHG,53.84,49.13,44.07
+357,Pakistan,Waste,All GHG,9.07,8.91,8.75
+358,Palau,Agriculture,All GHG,0.0,0.0,0.0
+359,Palau,Building,All GHG,0.01,0.01,0.01
+360,Palau,Bunker Fuels,All GHG,0.06,0.06,0.05
+361,Palau,Electricity/Heat,All GHG,0.1,0.09,0.07
+362,Palau,Energy,All GHG,0.27,0.26,0.22
+363,Palau,Industrial Processes,All GHG,0.01,0.01,0.01
+364,Palau,Land-Use Change and Forestry,All GHG,0.0,0.0,0.0
+365,Palau,Manufacturing/Construction,All GHG,0.0,0.0,0.0
+366,Palau,Other Fuel Combustion,All GHG,0.0,0.0,0.0
+367,Palau,Transportation,All GHG,0.17,0.16,0.14
+368,Palau,Waste,All GHG,0.02,0.02,0.02
+369,Papua New Guinea,Agriculture,All GHG,4.56,4.45,4.53
+370,Papua New Guinea,Building,All GHG,0.16,0.16,0.14
+371,Papua New Guinea,Bunker Fuels,All GHG,0.6,0.61,0.51
+372,Papua New Guinea,Electricity/Heat,All GHG,3.35,3.3,2.82
+373,Papua New Guinea,Energy,All GHG,13.6,13.6,12.46
+374,Papua New Guinea,Fugitive Emissions,All GHG,5.35,5.41,5.47
+375,Papua New Guinea,Industrial Processes,All GHG,0.23,0.19,0.15
+376,Papua New Guinea,Land-Use Change and Forestry,All GHG,42.63,42.63,113.99
+377,Papua New Guinea,Manufacturing/Construction,All GHG,1.78,1.74,1.43
+378,Papua New Guinea,Other Fuel Combustion,All GHG,0.93,0.93,0.87
+379,Papua New Guinea,Transportation,All GHG,2.03,2.05,1.72
+380,Papua New Guinea,Waste,All GHG,4.53,4.44,4.34
+381,Philippines,Agriculture,All GHG,62.18,59.0,59.11
+382,Philippines,Building,All GHG,9.3,7.91,6.48
+383,Philippines,Bunker Fuels,All GHG,4.91,4.01,3.75
+384,Philippines,Electricity/Heat,All GHG,64.12,56.04,51.88
+385,Philippines,Energy,All GHG,132.75,120.98,109.99
+386,Philippines,Fugitive Emissions,All GHG,0.55,0.63,0.62
+387,Philippines,Industrial Processes,All GHG,17.42,16.16,14.52
+388,Philippines,Land-Use Change and Forestry,All GHG,-59.69,-59.69,-59.86
+389,Philippines,Manufacturing/Construction,All GHG,17.79,16.76,14.11
+390,Philippines,Other Fuel Combustion,All GHG,6.61,6.31,6.08
+391,Philippines,Transportation,All GHG,34.38,33.34,30.82
+392,Philippines,Waste,All GHG,13.54,13.31,13.08
+393,Russia,Agriculture,All GHG,97.69,96.6,93.54
+394,Russia,Building,All GHG,178.41,156.31,148.76
+395,Russia,Bunker Fuels,All GHG,28.73,26.99,28.6
+396,Russia,Electricity/Heat,All GHG,835.58,840.13,879.86
+397,Russia,Energy,All GHG,2227.22,2202.85,2211.45
+398,Russia,Fugitive Emissions,All GHG,682.36,684.16,668.48
+399,Russia,Industrial Processes,All GHG,54.91,55.27,56.25
+400,Russia,Land-Use Change and Forestry,All GHG,-36.02,-36.02,-118.36
+401,Russia,Manufacturing/Construction,All GHG,262.09,259.78,249.98
+402,Russia,Other Fuel Combustion,All GHG,22.71,22.28,23.77
+403,Russia,Transportation,All GHG,246.06,240.2,240.61
+404,Russia,Waste,All GHG,116.48,115.75,113.19
+405,Samoa,Agriculture,All GHG,0.2,0.2,0.21
+406,Samoa,Building,All GHG,0.05,0.05,0.04
+407,Samoa,Bunker Fuels,All GHG,0.05,0.05,0.04
+408,Samoa,Electricity/Heat,All GHG,0.08,0.08,0.07
+409,Samoa,Energy,All GHG,0.31,0.3,0.25
+410,Samoa,Fugitive Emissions,All GHG,,,
+411,Samoa,Industrial Processes,All GHG,0.01,0.01,0.01
+412,Samoa,Land-Use Change and Forestry,All GHG,0.0,0.0,0.0
+413,Samoa,Manufacturing/Construction,All GHG,0.0,0.0,0.0
+414,Samoa,Other Fuel Combustion,All GHG,0.01,0.01,0.01
+415,Samoa,Transportation,All GHG,0.17,0.17,0.14
+416,Samoa,Waste,All GHG,0.15,0.15,0.15
+417,Singapore,Agriculture,All GHG,0.16,0.12,0.13
+418,Singapore,Building,All GHG,0.59,0.61,0.61
+419,Singapore,Bunker Fuels,All GHG,24.84,23.39,22.09
+420,Singapore,Electricity/Heat,All GHG,26.06,25.33,24.81
+421,Singapore,Energy,All GHG,48.82,47.51,46.82
+422,Singapore,Fugitive Emissions,All GHG,0.98,0.96,0.93
+423,Singapore,Industrial Processes,All GHG,13.99,13.36,12.73
+424,Singapore,Land-Use Change and Forestry,All GHG,0.04,0.04,0.04
+425,Singapore,Manufacturing/Construction,All GHG,13.69,13.04,12.86
+426,Singapore,Other Fuel Combustion,All GHG,0.41,0.4,0.39
+427,Singapore,Transportation,All GHG,7.08,7.18,7.22
+428,Singapore,Waste,All GHG,3.14,3.06,2.99
+429,Solomon Islands,Agriculture,All GHG,0.07,0.07,0.07
+430,Solomon Islands,Building,All GHG,0.0,0.0,0.0
+431,Solomon Islands,Bunker Fuels,All GHG,0.03,0.03,0.03
+432,Solomon Islands,Electricity/Heat,All GHG,0.09,0.09,0.08
+433,Solomon Islands,Energy,All GHG,0.36,0.37,0.32
+434,Solomon Islands,Fugitive Emissions,All GHG,,,
+435,Solomon Islands,Industrial Processes,All GHG,0.11,0.09,0.07
+436,Solomon Islands,Land-Use Change and Forestry,All GHG,1.98,1.98,1.98
+437,Solomon Islands,Manufacturing/Construction,All GHG,0.02,0.02,0.02
+438,Solomon Islands,Other Fuel Combustion,All GHG,0.03,0.03,0.03
+439,Solomon Islands,Transportation,All GHG,0.22,0.23,0.19
+440,Solomon Islands,Waste,All GHG,0.35,0.34,0.33
+441,South Korea,Agriculture,All GHG,14.05,14.06,14.04
+442,South Korea,Building,All GHG,51.9,51.34,47.95
+443,South Korea,Bunker Fuels,All GHG,15.98,15.8,14.64
+444,South Korea,Electricity/Heat,All GHG,365.16,356.66,351.34
+445,South Korea,Energy,All GHG,611.4,600.49,593.24
+446,South Korea,Fugitive Emissions,All GHG,5.2,5.2,5.19
+447,South Korea,Industrial Processes,All GHG,75.14,72.45,68.4
+448,South Korea,Land-Use Change and Forestry,All GHG,-39.6,-39.6,-39.59
+449,South Korea,Manufacturing/Construction,All GHG,71.83,73.0,76.27
+450,South Korea,Other Fuel Combustion,All GHG,13.84,12.97,14.08
+451,South Korea,Transportation,All GHG,103.47,101.31,98.4
+452,South Korea,Waste,All GHG,9.82,10.01,10.21
+453,Sri Lanka,Agriculture,All GHG,5.1,5.51,6.41
+454,Sri Lanka,Building,All GHG,0.95,0.8,0.66
+455,Sri Lanka,Bunker Fuels,All GHG,1.7,1.64,1.17
+456,Sri Lanka,Electricity/Heat,All GHG,9.7,8.71,6.81
+457,Sri Lanka,Energy,All GHG,25.24,23.79,22.32
+458,Sri Lanka,Fugitive Emissions,All GHG,0.0,0.0,0.0
+459,Sri Lanka,Industrial Processes,All GHG,2.17,1.97,1.62
+460,Sri Lanka,Land-Use Change and Forestry,All GHG,2.84,2.84,2.83
+461,Sri Lanka,Manufacturing/Construction,All GHG,0.7,1.62,2.96
+462,Sri Lanka,Other Fuel Combustion,All GHG,3.44,3.3,3.21
+463,Sri Lanka,Transportation,All GHG,10.44,9.36,8.68
+464,Sri Lanka,Waste,All GHG,3.39,3.36,3.33
+465,Tajikistan,Agriculture,All GHG,6.73,6.57,6.42
+466,Tajikistan,Building,All GHG,1.09,1.13,0.0
+467,Tajikistan,Bunker Fuels,All GHG,0.06,0.1,0.14
+468,Tajikistan,Electricity/Heat,All GHG,0.97,0.53,0.29
+469,Tajikistan,Energy,All GHG,6.06,5.64,4.43
+470,Tajikistan,Fugitive Emissions,All GHG,0.14,0.14,0.14
+471,Tajikistan,Industrial Processes,All GHG,0.9,0.88,0.89
+472,Tajikistan,Land-Use Change and Forestry,All GHG,0.0,0.0,0.0
+473,Tajikistan,Manufacturing/Construction,All GHG,1.53,0.94,0.06
+474,Tajikistan,Other Fuel Combustion,All GHG,1.15,1.62,2.61
+475,Tajikistan,Transportation,All GHG,1.18,1.29,1.33
+476,Tajikistan,Waste,All GHG,0.85,0.83,0.81
+477,Thailand,Agriculture,All GHG,69.41,63.93,64.88
+478,Thailand,Building,All GHG,6.69,6.56,6.51
+479,Thailand,Bunker Fuels,All GHG,21.46,21.93,23.93
+480,Thailand,Electricity/Heat,All GHG,103.98,110.36,110.21
+481,Thailand,Energy,All GHG,266.2,266.16,269.97
+482,Thailand,Fugitive Emissions,All GHG,12.89,12.98,13.07
+483,Thailand,Industrial Processes,All GHG,63.67,55.44,45.64
+484,Thailand,Land-Use Change and Forestry,All GHG,19.96,19.96,17.54
+485,Thailand,Manufacturing/Construction,All GHG,49.61,48.65,54.13
+486,Thailand,Other Fuel Combustion,All GHG,17.71,18.55,21.17
+487,Thailand,Transportation,All GHG,75.32,69.07,64.88
+488,Thailand,Waste,All GHG,12.65,12.58,12.51
+489,Timor-Leste,Agriculture,All GHG,0.94,1.0,0.96
+490,Timor-Leste,Building,All GHG,0.0,0.0,0.0
+491,Timor-Leste,Bunker Fuels,All GHG,0.01,0.01,0.01
+492,Timor-Leste,Electricity/Heat,All GHG,0.41,0.39,0.29
+493,Timor-Leste,Energy,All GHG,5.38,5.71,5.86
+494,Timor-Leste,Fugitive Emissions,All GHG,4.77,5.1,5.34
+495,Timor-Leste,Industrial Processes,All GHG,0.01,0.01,0.01
+496,Timor-Leste,Land-Use Change and Forestry,All GHG,6.1,6.1,6.11
+497,Timor-Leste,Manufacturing/Construction,All GHG,0.0,0.0,0.0
+498,Timor-Leste,Other Fuel Combustion,All GHG,0.12,0.13,0.16
+499,Timor-Leste,Transportation,All GHG,0.09,0.08,0.07
+500,Timor-Leste,Waste,All GHG,0.06,0.06,0.06
+501,Tonga,Agriculture,All GHG,0.08,0.08,0.08
+502,Tonga,Building,All GHG,0.01,0.01,0.01
+503,Tonga,Bunker Fuels,All GHG,0.02,0.01,0.02
+504,Tonga,Electricity/Heat,All GHG,0.05,0.05,0.04
+505,Tonga,Energy,All GHG,0.19,0.16,0.12
+506,Tonga,Fugitive Emissions,All GHG,,,
+507,Tonga,Industrial Processes,All GHG,0.0,0.0,0.0
+508,Tonga,Land-Use Change and Forestry,All GHG,0.0,0.0,0.0
+509,Tonga,Manufacturing/Construction,All GHG,0.0,0.0,0.0
+510,Tonga,Other Fuel Combustion,All GHG,0.01,0.01,0.01
+511,Tonga,Transportation,All GHG,0.13,0.1,0.07
+512,Tonga,Waste,All GHG,0.06,0.06,0.06
+513,Turkey,Agriculture,All GHG,47.85,48.24,46.11
+514,Turkey,Building,All GHG,59.04,54.07,53.16
+515,Turkey,Bunker Fuels,All GHG,19.71,17.93,19.16
+516,Turkey,Electricity/Heat,All GHG,158.51,146.53,133.83
+517,Turkey,Energy,All GHG,392.76,352.95,329.85
+518,Turkey,Fugitive Emissions,All GHG,8.2,8.14,5.09
+519,Turkey,Industrial Processes,All GHG,45.71,43.53,41.0
+520,Turkey,Land-Use Change and Forestry,All GHG,-64.86,-64.86,-64.85
+521,Turkey,Manufacturing/Construction,All GHG,68.79,51.06,50.61
+522,Turkey,Other Fuel Combustion,All GHG,15.38,13.99,14.64
+523,Turkey,Transportation,All GHG,82.84,79.15,72.51
+524,Turkey,Waste,All GHG,16.43,16.16,16.97
+525,Turkmenistan,Agriculture,All GHG,9.8,9.94,9.68
+526,Turkmenistan,Building,All GHG,17.31,17.31,17.31
+527,Turkmenistan,Bunker Fuels,All GHG,1.45,1.45,1.45
+528,Turkmenistan,Electricity/Heat,All GHG,25.93,25.95,25.98
+529,Turkmenistan,Energy,All GHG,112.87,113.17,113.54
+530,Turkmenistan,Fugitive Emissions,All GHG,43.64,43.96,44.2
+531,Turkmenistan,Industrial Processes,All GHG,2.08,2.11,2.05
+532,Turkmenistan,Land-Use Change and Forestry,All GHG,0.0,0.0,0.0
+533,Turkmenistan,Manufacturing/Construction,All GHG,2.35,2.35,2.35
+534,Turkmenistan,Other Fuel Combustion,All GHG,11.88,11.83,11.93
+535,Turkmenistan,Transportation,All GHG,11.77,11.77,11.77
+536,Turkmenistan,Waste,All GHG,1.37,1.35,1.33
+537,Tuvalu,Agriculture,All GHG,0.01,0.01,0.01
+538,Tuvalu,Building,All GHG,0.0,0.0,0.0
+539,Tuvalu,Bunker Fuels,All GHG,0.0,0.0,0.0
+540,Tuvalu,Electricity/Heat,All GHG,0.01,0.01,0.01
+541,Tuvalu,Energy,All GHG,0.01,0.01,0.01
+542,Tuvalu,Industrial Processes,All GHG,0.0,0.0,0.0
+543,Tuvalu,Land-Use Change and Forestry,All GHG,0.0,0.0,0.0
+544,Tuvalu,Manufacturing/Construction,All GHG,0.0,0.0,0.0
+545,Tuvalu,Other Fuel Combustion,All GHG,0.0,0.0,0.0
+546,Tuvalu,Transportation,All GHG,0.01,0.01,0.0
+547,Tuvalu,Waste,All GHG,0.01,0.01,0.01
+548,Uzbekistan,Agriculture,All GHG,35.43,33.52,31.73
+549,Uzbekistan,Building,All GHG,34.32,31.28,29.18
+550,Uzbekistan,Bunker Fuels,All GHG,1.71,1.76,1.76
+551,Uzbekistan,Electricity/Heat,All GHG,48.54,47.67,46.26
+552,Uzbekistan,Energy,All GHG,185.98,182.85,178.11
+553,Uzbekistan,Fugitive Emissions,All GHG,78.75,79.83,80.92
+554,Uzbekistan,Industrial Processes,All GHG,6.63,6.57,6.35
+555,Uzbekistan,Land-Use Change and Forestry,All GHG,-16.42,-16.42,-16.42
+556,Uzbekistan,Manufacturing/Construction,All GHG,12.38,11.32,10.59
+557,Uzbekistan,Other Fuel Combustion,All GHG,4.08,5.42,3.7
+558,Uzbekistan,Transportation,All GHG,7.92,7.34,7.47
+559,Uzbekistan,Waste,All GHG,6.92,6.8,6.68
+560,Vanuatu,Agriculture,All GHG,0.48,0.48,0.48
+561,Vanuatu,Building,All GHG,0.01,0.01,0.01
+562,Vanuatu,Bunker Fuels,All GHG,0.03,0.03,0.02
+563,Vanuatu,Electricity/Heat,All GHG,0.05,0.05,0.03
+564,Vanuatu,Energy,All GHG,0.21,0.22,0.18
+565,Vanuatu,Fugitive Emissions,All GHG,,,
+566,Vanuatu,Industrial Processes,All GHG,0.0,0.0,0.0
+567,Vanuatu,Land-Use Change and Forestry,All GHG,-0.01,-0.01,0.0
+568,Vanuatu,Manufacturing/Construction,All GHG,0.0,0.0,0.0
+569,Vanuatu,Other Fuel Combustion,All GHG,0.04,0.04,0.04
+570,Vanuatu,Transportation,All GHG,0.11,0.13,0.1
+571,Vanuatu,Waste,All GHG,0.16,0.15,0.15
+572,Vietnam,Agriculture,All GHG,71.14,71.08,72.01
+573,Vietnam,Building,All GHG,15.78,13.07,13.72
+574,Vietnam,Bunker Fuels,All GHG,4.04,3.57,3.49
+575,Vietnam,Electricity/Heat,All GHG,71.57,79.76,71.1
+576,Vietnam,Energy,All GHG,213.42,216.41,206.15
+577,Vietnam,Fugitive Emissions,All GHG,19.36,20.01,20.8
+578,Vietnam,Industrial Processes,All GHG,35.69,34.13,29.41
+579,Vietnam,Land-Use Change and Forestry,All GHG,-20.88,-20.88,-21.02
+580,Vietnam,Manufacturing/Construction,All GHG,64.33,63.01,63.3
+581,Vietnam,Other Fuel Combustion,All GHG,4.19,4.06,4.19
+582,Vietnam,Transportation,All GHG,38.19,36.49,33.05
+583,Vietnam,Waste,All GHG,20.16,19.93,19.7
